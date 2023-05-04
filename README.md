@@ -1,5 +1,8 @@
 # BusRight Interview Skeleton
 
+## Requirements
+* Python 3.6+
+
 ## Setup
 ```
 $ python3 -m venv env
